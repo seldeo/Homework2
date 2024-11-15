@@ -1,0 +1,30 @@
+.my_image{
+    border-radius: 30%;
+    height: 10px;
+    padding: 5px;
+    text-indent: 60px;
+}
+
+.p_info{
+    text-indent: 300px;
+height: 5%;
+}
+
+.my_image img{
+    width: 200px;
+    height: 200px;
+    border-radius: 400px;
+
+}
+
+h1{
+background-color: aqua;
+height: fit-content;
+padding-bottom: 0%;
+margin-bottom: 0%;
+}
+
+.title_{
+    color: royalblue;
+    font-weight: 700%;
+}
